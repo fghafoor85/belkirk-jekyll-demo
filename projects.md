@@ -14,5 +14,6 @@ menu:
     identifier: _projects
     url: "/projects/"
     weight: 2
+published: false
 
 ---
